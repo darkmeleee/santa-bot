@@ -11,10 +11,10 @@ ehthumbs.db
 Thumbs.db
 
 # Database files
-*.db
+
 *.sqlite
 *.sqlite3
-backend/test.db
+
 
 # Python
 __pycache__/
